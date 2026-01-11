@@ -41,7 +41,7 @@ C/C++ 소스 트리를 대상으로 위험 패턴을 빠르게 점검할 수 있
 
 ## 저장소 설명(About / Short description)
 
-* **KOR:** VS2022 콘솔 기반 C/C++ 보안 CIL
+* **KOR:** VS2022 콘솔 기반 C/C++ 보안 CLI
 * **ENG:** Lightweight C/C++ security linter CLI for VS2022
 
 ---
